@@ -1,13 +1,6 @@
 ### Hi there 👋 I'm Mariano
 
-Hi, I'm Mariano Zunino, a passionate self-taught Backend developer from Uruguay.
-
-- 🔭 I’m currently working on [![Vooks](https://cdn.shopify.com/s/files/1/0454/4597/2118/files/Vooks_Blue_w_Dropshadow_26x.png?v=1628544988)](https://www.vooks.com/) and 
-<a href="https://emoji.slack-edge.com/T012QH5BTPW/nubceo/a6b6ad00e174a57a.png"><img src="https://emoji.slack-edge.com/T012QH5BTPW/nubceo/a6b6ad00e174a57a.png" align="rigth" height="26" width="26" ></a>
-
-
-- 🌱 I’m currently learning Rails
-- 📫 How to reach me: <a href="httpshttps://www.linkedin.com/in/mariano-z"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="rigth" height="26" width="26" ></a>
+Hi, I'm Mariano Zunino, a passionate self-taught developer from Uruguay.
 
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
