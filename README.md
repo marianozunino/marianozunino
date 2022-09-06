@@ -23,7 +23,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -97,7 +97,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2022 02:20:15 UTC
+ Last Updated on 06/09/2022 03:21:04 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
