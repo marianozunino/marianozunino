@@ -4,7 +4,6 @@ Currently I'm working as a Software Backend Engineer at [**@Vairix**](https://va
 
 ```ts
 const Mariano = {
-  pronouns: 'He' | 'Him',
   code: ['Javascript', 'Typescript', 'Java', 'Go'],
   askMeAbout: ['tech', 'backend development', 'devops', 'the office 💼'],
   technologies: {
