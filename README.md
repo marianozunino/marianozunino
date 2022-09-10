@@ -22,7 +22,11 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+<<<<<<< HEAD
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2044%20mins-blue)
+=======
 ![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2034%20mins-blue)
+>>>>>>> 7dc2e52 (Updated with Dev Metrics)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,6 +73,21 @@ Sunday       71 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
+<<<<<<< HEAD
+sh                       15 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   41.16% 
+TypeScript               10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   28.2% 
+Go                       4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
+JavaScript               2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+
+🔥 Editors: 
+Neovim                   18 hrs 55 mins      ████████████░░░░░░░░░░░░░   50.36% 
+Zsh                      15 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   40.87% 
+VS Code                  3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+
+💻 Operating System: 
+Linux                    37 hrs 34 mins      █████████████████████████   100.0%
+=======
 sh                       12 hrs 51 mins      ████████████░░░░░░░░░░░░░   48.4% 
 Go                       4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
 TypeScript               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
@@ -82,6 +101,7 @@ VS Code                  3 hrs 17 mins       ███░░░░░░░░�
 
 💻 Operating System: 
 Linux                    26 hrs 33 mins      █████████████████████████   100.0%
+>>>>>>> 7dc2e52 (Updated with Dev Metrics)
 
 ```
 
@@ -98,7 +118,11 @@ HTML                     3 repos             █░░░░░░░░░░�
 
 
 
+<<<<<<< HEAD
+ Last Updated on 10/09/2022 12:51:30 UTC
+=======
  Last Updated on 10/09/2022 02:17:42 UTC
+>>>>>>> 7dc2e52 (Updated with Dev Metrics)
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
