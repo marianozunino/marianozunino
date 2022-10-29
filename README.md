@@ -22,15 +22,15 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,220 Contributions in the Year 2022
+> 🏆 3,230 Contributions in the Year 2022
  > 
 > 📦 32.5 kB Used in GitHub's Storage 
  > 
@@ -69,19 +69,19 @@ Sunday       74 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.16% 
-TypeScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.07% 
-JavaScript               3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
-HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98%
+sh                       6 hrs 46 mins       ████████████░░░░░░░░░░░░░   51.07% 
+TypeScript               2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+JavaScript               2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+desktop                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🔥 Editors: 
-Zsh                      5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   38.16% 
-Neovim                   5 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   34.88% 
-VS Code                  4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   26.96%
+Zsh                      6 hrs 46 mins       ████████████░░░░░░░░░░░░░   51.07% 
+Neovim                   3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   26.49% 
+VS Code                  2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   22.44%
 
 💻 Operating System: 
-Linux                    15 hrs 4 mins       █████████████████████████   100.0%
+Linux                    13 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +98,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2022 02:04:40 UTC
+ Last Updated on 29/10/2022 02:02:37 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
