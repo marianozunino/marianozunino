@@ -69,13 +69,13 @@ Sunday       78 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -92,7 +92,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2023 01:30:06 UTC
+ Last Updated on 16/01/2023 01:28:04 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
