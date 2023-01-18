@@ -22,7 +22,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,9 +30,9 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2023
+> 🏆 8 Contributions in the Year 2023
  > 
-> 📦 32.9 kB Used in GitHub's Storage 
+> 📦 33.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,8 +43,8 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    349 commits    ██████░░░░░░░░░░░░░░░░░░░   24.15% 
-🌆 Daytime    807 commits    ██████████████░░░░░░░░░░░   55.85% 
+🌞 Morning    347 commits    ██████░░░░░░░░░░░░░░░░░░░   24.01% 
+🌆 Daytime    809 commits    ██████████████░░░░░░░░░░░   55.99% 
 🌃 Evening    273 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
 🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11%
 
@@ -53,8 +53,8 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 
 ```text
 Monday       282 commits    █████░░░░░░░░░░░░░░░░░░░░   19.52% 
-Tuesday      319 commits    █████░░░░░░░░░░░░░░░░░░░░   22.08% 
-Wednesday    215 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Tuesday      321 commits    █████░░░░░░░░░░░░░░░░░░░░   22.21% 
+Wednesday    213 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Thursday     286 commits    █████░░░░░░░░░░░░░░░░░░░░   19.79% 
 Friday       210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
 Saturday     55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
@@ -69,13 +69,18 @@ Sunday       78 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+sh                       42 mins             ████████████░░░░░░░░░░░░░   50.46% 
+JSON                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   27.48% 
+dosini                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      42 mins             ████████████░░░░░░░░░░░░░   50.46% 
+Neovim                   41 mins             ████████████░░░░░░░░░░░░░   49.54%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 24 mins        █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +97,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2023 01:29:37 UTC
+ Last Updated on 18/01/2023 01:33:23 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
