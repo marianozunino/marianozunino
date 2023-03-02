@@ -22,17 +22,17 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-700.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 36.1 kB Used in GitHub's Storage 
  > 
-> 🏆 236 Contributions in the Year 2023
+> 🏆 239 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,19 +67,19 @@ Sunday                   126 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       13 hrs 16 mins      ███████████████░░░░░░░░░░   60.97 % 
-TypeScript               7 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+sh                       11 hrs 20 mins      ██████████████░░░░░░░░░░░   57.51 % 
+TypeScript               7 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.90 % 
+Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Text                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Zsh                      13 hrs 16 mins      ███████████████░░░░░░░░░░   60.97 % 
-Neovim                   5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-VS Code                  2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Zsh                      11 hrs 20 mins      ██████████████░░░░░░░░░░░   57.51 % 
+Neovim                   4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+VS Code                  3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 
 💻 Operating System: 
-Linux                    21 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -95,7 +95,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 01:39:42 UTC
+ Last Updated on 02/03/2023 01:29:23 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
