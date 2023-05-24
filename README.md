@@ -22,7 +22,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,7 +32,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 
 > 📦 44.7 kB Used in GitHub's Storage 
  > 
-> 🏆 530 Contributions in the Year 2023
+> 🏆 531 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,19 +43,19 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6082 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-🌆 Daytime                10555 commits       █████████████░░░░░░░░░░░░   51.71 % 
-🌃 Evening                3627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-🌙 Night                  149 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+🌞 Morning                6083 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌆 Daytime                10563 commits       █████████████░░░░░░░░░░░░   51.72 % 
+🌃 Evening                3627 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+🌙 Night                  150 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3225 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  5300 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Wednesday                3512 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Thursday                 5175 commits        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Friday                   2266 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Monday                   3225 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  5300 commits        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Wednesday                3513 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Thursday                 5181 commits        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Friday                   2269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 Saturday                 462 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
@@ -67,13 +67,13 @@ Sunday                   473 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       8 hrs 30 mins       █████████████████████████   100.00 % 
+sh                       6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      8 hrs 30 mins       █████████████████████████   100.00 % 
+Zsh                      6 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 30 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +89,7 @@ HCL                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2023 01:28:09 UTC
+ Last Updated on 24/05/2023 01:30:11 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
