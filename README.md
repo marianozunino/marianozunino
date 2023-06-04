@@ -22,7 +22,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -67,13 +67,15 @@ Sunday                   453 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       6 hrs 38 mins       █████████████████████████   100.00 % 
+sh                       11 hrs 33 mins      ███████████████████████░░   90.92 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 🔥 Editors: 
-Zsh                      6 hrs 38 mins       █████████████████████████   100.00 % 
+Zsh                      11 hrs 33 mins      ███████████████████████░░   90.92 % 
+VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 💻 Operating System: 
-Linux                    6 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,7 +91,7 @@ HCL                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2023 01:38:27 UTC
+ Last Updated on 04/06/2023 02:00:05 UTC
 <!--END_SECTION:waka-->
 
 **Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
