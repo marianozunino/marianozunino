@@ -9,10 +9,10 @@ const Mariano = {
   technologies: {
     backEnd: {
       ts: ['nestjs', 'express', 'fastify', 'objection', ...soManyOthersFrameworks],
-      go: ['fx', 'zap', 'sqlboiler', 'gqlgen', 'mux'],
+      go: ['fx', 'zap', 'sqlboiler', 'ent', 'gqlgen', 'mux'],
     },
     devOps: ['Linux', 'AWS', 'Docker', 'Kubernetes', 'Terraform', ...soManyOthersTools],
-    databases: ['mongo', 'mariadb', 'sqlite', 'postgres', 'neo4j', 'redis'],
+    databases: ['mongo', 'mariadb', 'sqlite', 'postgres', 'neo4j', 'redis', ...],
   }
 };
 ```
@@ -98,6 +98,6 @@ TeX                      1 repo              ░░░░░░░░░░░�
  Last Updated on 03/08/2023 00:36:01 UTC
 <!--END_SECTION:waka-->
 
-**Beware:** As I said, these stats dont mean anything, they are just fun to look at, so don't take them too seriously.
+**Please Note**: Some statistics, like the use of Lua, might be skewed because I use it for my Neovim configuration.
 
-For instance, I don't really code in Lua, I just use it for my Neovim configuration, but it's still might show up in my stats 🤷‍♂️
+Remember, these stats are just for fun and don't carry any serious implications!
