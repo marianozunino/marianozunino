@@ -22,11 +22,11 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 ![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,21 +43,21 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10085 commits       ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌆 Daytime                17586 commits       █████████████░░░░░░░░░░░░   52.16 % 
-🌃 Evening                5709 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-🌙 Night                  333 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌞 Morning                9032 commits        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
+🌆 Daytime                16174 commits       █████████████░░░░░░░░░░░░   52.57 % 
+🌃 Evening                5260 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌙 Night                  301 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  8408 commits        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Wednesday                5994 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Thursday                 7941 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Friday                   4141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Saturday                 711 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Sunday                   597 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Monday                   5281 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  7659 commits        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Wednesday                5434 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 7317 commits        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Friday                   3800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Saturday                 679 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Sunday                   597 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
@@ -95,7 +95,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2023 00:34:07 UTC
+ Last Updated on 10/08/2023 00:33:00 UTC
 <!--END_SECTION:waka-->
 
 **Please Note**: Some statistics, like the use of Lua, might be skewed because I use it for my Neovim configuration.
