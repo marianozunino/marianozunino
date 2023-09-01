@@ -19,8 +19,6 @@ const Mariano = {
 
 Here are some random GitHub stats about me, they don't mean anything but they are fun to look at, isn't it? 🐱
 
-![Mariano Zunino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozunino&count_private=true&show_icons=true&theme=radical)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2018%20mins-blue)
 
