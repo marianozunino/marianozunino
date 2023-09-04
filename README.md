@@ -20,7 +20,7 @@ const Mariano = {
 Here are some random GitHub stats about me, they don't mean anything but they are fun to look at, isn't it? 🐱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,7 +30,7 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 
 > 📦 52.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,264 Contributions in the Year 2023
+> 🏆 1,266 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,8 +42,8 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 
 ```text
 🌞 Morning                9712 commits        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-🌆 Daytime                17650 commits       █████████████░░░░░░░░░░░░   53.09 % 
-🌃 Evening                5584 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+🌆 Daytime                17649 commits       █████████████░░░░░░░░░░░░   53.09 % 
+🌃 Evening                5585 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 🌙 Night                  299 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -65,18 +65,18 @@ Sunday                   630 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-sh                       3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-TypeScript               1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Python                   1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Svelte                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Go                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Svelte                   4 hrs               ████████░░░░░░░░░░░░░░░░░   32.49 % 
+sh                       3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+TypeScript               2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Python                   1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 31 mins       ████████████████░░░░░░░░░   62.02 % 
-Zsh                      3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
+Neovim                   8 hrs 41 mins       ██████████████████░░░░░░░   70.49 % 
+Zsh                      3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
 
 💻 Operating System: 
-Linux                    8 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +92,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2023 00:32:39 UTC
+ Last Updated on 04/09/2023 00:34:36 UTC
 <!--END_SECTION:waka-->
 
 **Please Note**: Some statistics, like the use of Lua, might be skewed because I use it for my Neovim configuration.
