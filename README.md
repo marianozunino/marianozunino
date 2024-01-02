@@ -20,7 +20,7 @@ const Mariano = {
 Here are some random GitHub stats about me, they don't mean anything but they are fun to look at, isn't it? 🐱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,16 @@ Sunday                   724 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-TeX                      54 mins             ██████████████░░░░░░░░░░░   56.73 % 
-sh                       34 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
-Lua                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+TeX                      54 mins             ██████████████░░░░░░░░░░░   56.95 % 
+sh                       34 mins             █████████░░░░░░░░░░░░░░░░   36.04 % 
+Lua                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 
 🔥 Editors: 
-Neovim                   1 hr                ████████████████░░░░░░░░░   63.71 % 
-Zsh                      34 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
+Neovim                   1 hr                ████████████████░░░░░░░░░   63.96 % 
+Zsh                      34 mins             █████████░░░░░░░░░░░░░░░░   36.04 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +90,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2024 00:37:45 UTC
+ Last Updated on 02/01/2024 00:35:30 UTC
 <!--END_SECTION:waka-->
 
 **Please Note**: Some statistics, like the use of Lua, might be skewed because I use it for my Neovim configuration.
