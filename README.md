@@ -20,7 +20,7 @@ const Mariano = {
 Here are some random GitHub stats about me, they don't mean anything but they are fun to look at, isn't it? 🐱
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C007%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C010%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,8 +29,6 @@ Here are some random GitHub stats about me, they don't mean anything but they ar
 **🐱 My GitHub Data** 
 
 > 📦 66.5 kB Used in GitHub's Storage 
- > 
-> 🏆 880 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,18 +63,18 @@ Sunday                   1132 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Montevideo
 
 💬 Programming Languages: 
-TypeScript               14 hrs 55 mins      ████████████░░░░░░░░░░░░░   47.82 % 
-sh                       12 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   40.16 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-C#                       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               14 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.03 % 
+sh                       12 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   41.12 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 45 mins      ███████████████░░░░░░░░░░   60.09 % 
-Zsh                      12 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.91 % 
+Neovim                   17 hrs 43 mins      ███████████████░░░░░░░░░░   59.15 % 
+Zsh                      12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.85 % 
 
 💻 Operating System: 
-Linux                    31 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +90,7 @@ LLVM                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 00:44:36 UTC
+ Last Updated on 26/05/2024 00:46:56 UTC
 <!--END_SECTION:waka-->
 
 **Please Note**: Some statistics, like the use of Lua, might be skewed because I use it for my Neovim configuration.
